@@ -39,7 +39,9 @@ I'm a Christian, and I enjoy building software and learning new things.
 ## Links
 
 - Portfolio: [prinke.dev](https://prinke.dev)
-- GitHub: [github.com/prinketaru](https://github.com/prinketaru)
+- LinkedIn: [prince-samaroo-0a1b04383](https://www.linkedin.com/in/prince-samaroo-0a1b04383)
+- Email: [prince@prinke.dev](mailto:prince@prinke.dev)
+- X: [@prinketaru](https://x.com/prinketaru)
 
 ## Contact
 
