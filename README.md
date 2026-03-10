@@ -33,13 +33,13 @@ I'm a Christian, and I enjoy building software and learning new things.
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,astro,tailwind,mongodb,mysql,sqlite,git,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,astro,tailwind,vercel,mongodb,postgresql,mysql,sqlite,supabase,git,docker" />
 </p>
 
 ## Links
 
 - Portfolio: [prinke.dev](https://prinke.dev)
-- LinkedIn: [prince-samaroo-0a1b04383](https://www.linkedin.com/in/prince-samaroo-0a1b04383)
+- LinkedIn: [princesamaroo](https://www.linkedin.com/in/princesamaroo)
 - Email: [prince@prinke.dev](mailto:prince@prinke.dev)
 - X: [@prinketaru](https://x.com/prinketaru)
 
